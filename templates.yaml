@@ -1,0 +1,93 @@
+welcome: Welcome to hotel booking. How may I help you?
+
+utter_ask_hotel_name: What is the hotel name?
+
+utter_ask_city_book: Is the hotel in {{city}}?
+
+utter_ask_city: OK, in which city the hotel is?
+
+utter_ask_city_search: OK, in which city?
+
+utter_ask_address: Can you specify the address?
+
+utter_ask_arrival_date: Can you tell me the arrival date?
+
+utter_arrival_date: Ok, when do you will arrive?
+
+utter_departure_date: Ok, when do you will leave?
+
+utter_ask_departure_date: Can you tell me the departure date?
+
+utter_ask_number_room: How many rooms do you want to book?
+
+utter_ask_people: How many people?
+
+utter_ask_book: Do you want me to book {{hotel_name}} with {{stars}} stars in {{address}} {{city}} {{state}} from {{arrival_date}} to {{departure_date}} for {{number_people}} people in {{number_room}} {{room_word}}?
+
+utter_answer_request: I'm not able to help you with that right now, maybe in the future.
+
+utter_booked: Ok. You are all set. Booking was successful.
+
+utter_goodbye: Goodbye, see you soon.
+
+utter_ask_booking: Do you want to try a new booking?
+
+utter_ask_conflict_people: The number of rooms you specified is greater than the number of people. Do you want me to book {{number}} rooms?
+
+utter_ask_conflict_dates: I think you inverted the dates. Do you will arrive on {{first_date}} and leave on {{second_date}}?
+
+utter_ask_conflict_equal_dates: I cannot make a reservation if the arrival date and the departure date are the same.
+
+utter_ask_conflict_past_arrival_date: The date {{date}} you specified is in the past. When do you will arrive?
+
+utter_ask_conflict_past_departure_date: The date {{date}} you specified is in the past. When do you will leave?
+
+utter_ask_conflict_stars: The {{hotel_name}} has {{correct}} stars, not {{stars}}. Can I proceed with the booking?
+
+utter_ask_conflict_city: The {{hotel_name}} is in {{city}} not in {{wrong_city}}. Can I proceed with the booking?
+
+utter_ask_conflict_address: The {{hotel_name}} is in {{address}} not in {{wrong_address}} Can I procees with the booking?
+
+utter_ask_search_address: Do you want to specify the address?
+
+utter_ask_search_address_spec: Near which address?
+
+utter_ask_search_stars: Do you want to specify the stars?
+
+utter_ask_search_affirm_stars: OK, how many stars?
+
+utter_ask_search_affirm_address: OK, near which address?
+
+utter_ask_more_results: Do you want to see more results?
+
+utter_ask_boh: OK, let's suppose {{value}}.
+
+utter_ask_boh_no: I cannot book the hotel without the {{variable}}.
+
+utter_ask_book_hotel: Do you want to book one of the hotel?
+
+utter_ask_which_hotel: Which hotel do you want to book?
+
+utter_restart: How may I help you?
+
+utter_empty_result: No results found for your search.
+
+utter_no_next: The next page is not available.
+
+utter_no_prev: The previous page is not available.
+
+utter_help: Hi. I am the hotel booking skill for Alexa and I am able to book a hotel or search hotels in USA and UK for you. You can ask to search for you some hotels, for example saying I want to find some three stars hotels in london; or you can book a hotel, for example saying Please book the Richmond Gate Hotel. If you want to close me, say goodbye.
+
+utter_not_found: I have not found the selected hotels. Do you want to execute a search?
+
+utter_select_city_1: I have found more than one occurrence for {{city}}.
+
+utter_select_city_2: Which city do you mean?
+
+utter_nevermind: OK, nevermind.
+
+utter_start_search: Ok, let's start a search. In which city do you want to go?
+
+utter_not_found_hotels: I have not found the {{hotel}} and I cannot book it. Do you want to execute a search?
+
+utter_current_booking: Ok, I'm booking the {{hotel}}.

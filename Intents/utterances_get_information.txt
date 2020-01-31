@@ -1,0 +1,207 @@
+i need {number}
+maybe {number}
+i want {stars} stars
+i prefer {stars} stars
+i want {city} in {region}
+i mean {city} in {region}
+i need from {arrival_date} to {departure_date}
+i want to go away on {departure_date}
+i'll come on {arrival_date}
+i'll arrive on {arrival_date}
+i'll leave on {departure_date}
+i think i'll leave on {departure_date}
+i think i'll arrive on {arrival_date}
+the best option for me is {hotel_name}
+i think {city} is the best option
+i'm looking at {city}
+i prefer near {address}
+near {address} in {city} in {region}
+i think we will need {number_room} room
+I'm not sure but i think we will be in {number_people}
+{number_room} rooms and {number_people} people
+for {number_people} people in {number_room} rooms
+from {arrival_date} to {departure_date}
+{number_people} people
+for {number_people}
+for {number_people} people
+{number_room} rooms
+{hotel_name}
+It is the {hotel_name}
+{city}
+{address}
+{region}
+{number}
+{stars} stars
+{date}
+from {arrival_date}
+to {departure_date}
+I think from {arrival_date} to {departure_date}
+I think i'll arrive on {arrival_date} and leave on {departure_date}
+I think i'll arrive on {arrival_date}
+I think i'll leave on {departure_date}
+I think we will be in {number_people}
+I think {number}
+I need {number_room} rooms
+in {address}
+in {city}
+in {region}
+{address} in {city} in {region}
+{address} in {city}
+sure {address} in {city}
+in {city} in {region}
+actually i would prefer for {number_people} people
+actually i would prefer in {city}
+actually i would prefer to arrive on {arrival_date} and leave on {departure_date}
+actually i would prefer to arrive on {arrival_date}
+actually i would prefer to leave on {departure_date}
+ah {city}
+for {number_people} please
+{number} please
+please {date}
+how about uh {number}
+how about {date}
+how about {city}
+how about {address}
+i need {number}
+i need {city}
+i need the {date}
+i need to arrive on {arrival_date} and leave on {departure_date}
+i need to arrive on {arrival_date}
+i need to leave on {departure_date}
+i need near {address}
+i need {address} in {city}
+i want {number}
+i want {number_people} people
+i want {number_room} rooms
+i want {date}
+i want from {arrival_date} to {departure_date}
+i want {city}
+i want {address}
+i would like {number}
+i would like {number_people} people
+i would like {number_room} rooms
+i would like {date}
+i would like to arrive on {arrival_date} and leave on {departure_date}
+i would like to arrive on {arrival_date}
+i would like to leave on {departure_date}
+i would like from {arrival_date} to {departure_date}
+i would like in {city}
+i would like near {address}
+i would like {region}
+instead could it be for {number_people} people
+instead could it have {number_room} rooms
+instead could it be from {arrival_date} to {departure_date}
+instead could it be in {city}
+instead could it be near {address}
+noise um in {city}
+noise um in {address}
+noise um in {region}
+noise um {date}
+noise um  i'll arrive on {arrival_date}
+noise um i'll leave on {departure_date}
+noise um {number}
+oh i need to be in {city}
+oh i need to be in {city} near {address}
+ok how about {stars} stars
+ok how about {number}
+ok how about {date}
+ok how about {number_people} people
+ok how about {number_room} rooms
+ok how about from {arrival_date} to {departure_date}
+ok how about for {number_people} people in {number_room} rooms
+ok what about {city}
+ok what about {address}
+ok what about {region}
+ok what about {number}
+ok what about {date}
+ok what about {number_people} people
+ok what about {number_room} rooms
+ok what about from {arrival_date} to {departure_date}
+ok what about for {number_people} people in {number_room} rooms
+uh how about {number}
+uh how about {date}
+uh how about {number_people} people
+uh how about {number_room} rooms
+uh how about {city}
+uh how about {address}
+uh how about {region}
+uh how about {city} in {region} near {address}
+uh how about from {arrival_date} to {departure_date}
+uh i want {stars} stars
+uh i want {number}
+uh i want {date}
+uh i want to arrive on {arrival_date} and leave on {departure_date}
+uh i want to arrive on {arrival_date}
+uh i want to leave on {departure_date}
+uh i want {number_room} rooms
+uh i want {number_people} people
+uh i want {city}
+uh i want {address}
+uh i want from {arrival_date} to {departure_date}
+uh id like {stars} stars
+uh id like {date}
+uh id like to arrive on {arrival_date} and leave on {departure_date}
+uh id like to arrive on {arrival_date}
+uh id like to leave on {departure_date}
+uh id like {number}
+uh id like {number_people} people
+uh id like {number_room} rooms
+uh id like {city}
+uh id like {address}
+uh id like {region}
+uh id like {city} in {region}
+uh id like from {arrival_date} to {departure_date}
+uh id like {number_room} rooms for {number_people} people
+uh okay how about {number}
+uh okay how about {date}
+uh okay how about arrive on {arrival_date} and leave on {departure_date}
+uh okay how about arrive on {arrival_date}
+uh okay how about leave on {departure_date}
+uh okay how about {city}
+uh what about {number}
+uh what about {date}
+uh what about arrive on {arrival_date} and leave on {departure_date}
+uh what about arrive on {arrival_date}
+uh what about leave on {departure_date}
+uh what about {city}
+uh what about {address}
+uh what about {region}
+uh what about {number_people} guys
+uh {number}
+uh {date}
+uh i'll arrive on {arrival_date} and leave on {departure_date}
+uh i'll arrive on {arrival_date}
+uh i'll leave on {departure_date}
+uh {city}
+uh {address}
+uh {region}
+um {stars} stars
+um {number}
+um {date}
+um {city}
+um {address} in {city} in {region}
+um i'll arrive on {arrival_date} and leave on {departure_date}
+um i'll arrive on {arrival_date}
+um i'll leave on {departure_date}
+um from {arrival_date} to {departure_date}
+we will be {number_people} people
+what about {number}
+what about {date}
+what about arrive on {arrival_date}
+what about leave on {departure_date}
+what about {city}
+what about {address}
+what about {number_room} rooms
+just {number}
+{number} because i'm alone
+only {number}
+on {date}
+yes {number}
+only {number} because i'm alone
+{number_people} guys
+{number_people} woman
+{number_people} men
+{number_people} ladies
+i'll arrive on {arrival_date} and i'll leave on {departure_date}
+i'll arrive on {arrival_date}
+i'll leave on {departure_date}

@@ -1,0 +1,35 @@
+I want to book the {hotel_name} in {address}
+i want to book the {hotel_name} in {city} in {region}
+I want to book the {hotel_name} in {city}
+can you book {number_room} room in {city} in a {stars} stars hotel for {number_people}
+can you book {number_room} room in {hotel_name} with {stars} stars for {number_people} people
+can you book {number_room} room in {hotel_name} with {stars} stars for {number_people} guys
+can you book {number_room} room in {hotel_name} with {stars} stars for {number_people} friends
+can you book {number_room} room in {hotel_name} with {stars} stars for {number_people} from {arrival_date} to {departure_date}
+can you book {number_room} room in {hotel_name} in {city} with {stars} stars for {number_people} from {arrival_date} to {departure_date}
+can you book {number_room} room in {city} in a {stars} stars hotel for {number_people} people
+can you make a hotel reservation in a {stars} stars hotel in {city} with {number_room} rooms for {number_people} people
+can you make a hotel reservation in {hotel_name} with {stars} stars in {city} with {number_room} rooms for {number_people} people
+can you make a hotel reservation in {hotel_name} with {stars} stars with {number_room} rooms for {number_people} people
+can you make a hotel reservation in {hotel_name} with {stars} stars in {city} with {number_room} rooms for {number_people} people from {arrival_date} to {departure_date}
+can you make a hotel reservation in {hotel_name} with {number_room} rooms for {number_people} people
+can you make a hotel reservation in {hotel_name} for {number_people} people in {number_room} rooms from {arrival_date} to {departure_date}
+can you make a hotel reservation with {stars} stars for {number_people} people in {city} from {arrival_date} to {departure_date}
+i need to book the {hotel_name} in {city} from {arrival_date} to {departure_date}
+i need to book the {hotel_name} in {city} having {stars} stars from {arrival_date} to {departure_date}
+i need to book the {hotel_name} in {city} having {stars} stars for {number_people} people
+i need to book the {hotel_name} in {city} stars for {number_people} people
+i need to book the {hotel_name} having {stars} stars for {number_people} people from {arrival_date} to {departure_date}
+i'd like to book {number_room} rooms for {number_people} in {city} with {stars} stars
+i'd like to book {number_room} room in a {stars} stars hotel for {number_people} people from {arrival_date} to {departure_date}
+please book for me the {hotel_name} having {stars} stars in {city} for {number_people} people in {number_room} rooms
+i want to book the {hotel_name} for my holidays in {city}
+i want to book the {hotel_name} for my vacation in {city}
+i want to book the {hotel_name} for my holidays from {arrival_date} to {departure_date}
+i want to book the {hotel_name} for my holidays from {arrival_date} to {departure_date} for {number_people} people in {number_room} rooms
+i want to book the {hotel_name} for my holidays in {city} from {arrival_date} to {departure_date}
+i want to book the {hotel_name} for my vacation from {arrival_date} to {departure_date}
+i want to book the {hotel_name} for my vacation from {arrival_date} to {departure_date} for {number_people} people in {number_room} rooms
+i want to book the {hotel_name} for my vacation in {city} from {arrival_date} to {departure_date}
+i want to book the {hotel_name} for my holidays with my friends from {arrival_date} to {departure_date}
+

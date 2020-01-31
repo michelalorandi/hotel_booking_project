@@ -1,0 +1,290 @@
+I'm looking for a {stars} stars hotel in {city}
+a hotel in {city} that has {stars} stars
+a hotel with {stars} stars
+a hotel in {city}
+a hotel with {stars} stars in {city}
+a {stars} stars hotel in {city} in {region}
+a {stars} hotel in {city}
+ah im looking for a {stars} stars hotel
+an {stars} star hotel
+any kind of food id like a {stars} hotel
+breath can i get a hotel with {stars} stars
+breath i want to find a hotel in {city}
+breath im looking for a hotel that has {stars} star
+can i find a hotel that has {stars} stars
+can i find an {stars} star hotel that is located in {city}
+can i get a hotel with {stars} stars
+can i have a {stars} stars hotel please
+can i have a {stars} stars hotel
+can i have hotels in {city}
+could i have a {stars} stars hotel in {city}
+could i have a {stars} hotel
+could i have a {stars} hotel in {city}
+fancy hotel with {stars} stars
+find a {stars} stars hotel
+find me a cheap {stars} star hotel
+find {stars} stars hotel in {city} in {region}
+for a hotel in any area of {city} with {stars} stars
+hello im looking for an {stars} star hotel
+hello hotels in {city} in {region}
+hi im looking for a {stars} stars hotel
+hi im looking for a {stars} stars hotel in {city}
+hi im looking for a {stars} hotel in {city} in {region}
+hi im looking for an hotel in the center that has {stars} stars
+hi im looking for an {stars} stars hotel in {city}
+hi im looking for {stars} stars hotels
+hi looking for a {stars} stars hotel
+how about a hotel near {address} in {city} that has {stars} stars
+how about an expensive hotel that has {stars} stars
+how about an {stars} stars hotel in {address}
+how about hotels in {city}
+how about find hotels
+how about hotels with {stars} stars in {city}
+how bout one that has {stars} star and is cheap
+i am looking for a hotel in {city} and it should have {stars} stars
+i am looking for a hotel having {stars} stars
+i am looking for a {stars} hotel and it should be in {city}
+i am looking for an {stars} hotel that is in {address} {city}
+i need a hotel in the center of {city} that has {stars} stars
+i need a hotel in the center of {city} that is near {address}
+i need a hotel in the {city}
+i need a hotel having {stars} stars near {address}
+i need a {stars} stars hotel that is near {address}
+i need a {stars} stars hotel
+i need a {stars} stars hotel in {city}
+i need a {stars} stars hotel located in {city}
+i need a {stars} stars hotel near {city} in {region}
+i need a {stars} stars hotel that is in {city}
+i need a {stars} stars hotel that is located near {address}
+i need a {stars} hotel
+i need a {stars} hotel in {city}
+i need to find a hotel in the {city} that has {stars} stars
+i want a hotel in the center that has {stars} stars
+i want a hotel in {city} near {address} that has {stars} star
+i want a hotel in the {address} in {city}
+i want a hotel having {stars} stars
+i want a hotel that has {stars} stars
+i want a {stars} stars hotel in {city}
+i want a {stars} stars hotel
+i want a {stars} stars hotel in {city} in {region}
+i want a {stars} stars hotel in {city} from {arrival_date} to {departure_date}
+i want a {stars} stars hotel that is available from {arrival_date} to {departure_date}
+i want a {stars} hotel in {city} with {number_room} for {number_people} people
+i want a {stars} hotel that available from {arrival_date} to {departure_date} for {number_people} people
+i want an {stars} hotel that is near {address}
+i want an {stars} hotel that is in {city}
+i want to find a hotel in the center and it should have {stars} stars and be available for {number_people} people from {arrival_date} to {departure_date}
+i want to find a hotel in the center that has {stars} stars from {arrival_date} to {departure_date}
+i want to find a hotel in {city}
+i want to find a hotel in {city}
+i want to find a hotel that has {stars} stars
+i want to find a {stars} stars hotel
+i want to find a {stars} stars hotel and it should be available from {arrival_date} to {departure_date}
+i want to find a {stars} stars hotel in {city}
+i want to find a {stars} stars hotel that is available from {arrival_date} to {departure_date}
+i want to find a {stars} stars hotel and it should be in {city} and be available from {arrival_date} to {departure_date}
+i want to find a {stars} stars hotel and it should be in {city}
+i want to find a {stars} stars hotel in {city} in {region} available for {number_people} people
+i want to find an {stars} stars hotel that is near {address}
+i want hotels in {city}
+i want {stars} stars hotels in {city} in {region}
+i would like a hotel that has {stars} stars
+i would like a {stars} stars hotel in {city}
+i would like a {stars} stars hotel
+i would like a {stars} hotel in the {city} part of town
+i would like to find a hotel in the center and it should be near {address}
+i would like to find a {stars} stars hotel in the {city} part of town
+i would like to find an {stars} stars hotel that is near {address} in {city}
+i would like good hotels in {city}
+iam looking for an {stars} hotel and it should be in {city}
+id like a hotel in any area that it has {stars}
+id like a hotel in {city}
+id like a hotel in {city} that has {stars} for {number_people} people from {arrival_date} to {departure_date}
+id like a {stars} stars hotel in {city} for {number_people} people from {arrival_date} to {departure_date}
+id like a {stars} stars hotel in {city}
+id like a {stars} stars hotel that is available for {number_people} people from {arrival_date} to {departure_date}
+id like a {stars} hotel in {city} from {arrival_date} to {departure_date}
+id like an {stars} stars hotel
+id like an {stars} hotel that is located near {address}
+id like an {stars} stars hotel is in {city} near {address}
+id like an {stars} stars hotel in {city} in {region}
+id like to find a hotel in {city} that is near {address} and available from {arrival_date} to {departure_date}
+id like to find a hotel that has {stars} stars
+id like to find a {stars} stars hotel in {city}
+id like to find a {stars} hotel in {city} near {address}
+id like to find an {stars} stars hotel
+id like {stars} stars hotel for {number_people} people in {number_room} rooms
+im looking a hotel in {city}
+im looking for a hotel in any area it should have {stars} star
+im looking for a hotel in any area that has {stars} stars
+im looking for a hotel in central it should have {stars} stars
+im looking for a hotel in the center of {city} that has {stars} stars
+im looking for a hotel in the center part of {city} that has {stars} stars
+im looking for a hotel in the center that has {stars} stars
+im looking for a hotel in {city} has {stars} stars
+im looking for a hotel in {city} with {stars} stars
+im looking for a hotel in {city}
+im looking for a hotel in {city} and {stars} stars
+im looking for a hotel in {city} phaving {stars} stars
+im looking for a hotel in {city} that is available from {arrival_date} to {departure_date}
+im looking for a hotel in {city} that has {number_room} rooms for {number_people} people
+im looking for a hotel in {city} that has {stars} stars
+im looking for a hotel in {city} in {region}
+im looking for a hotel in {city} near {address}
+im looking for a hotel near {address} in {city}
+im looking for a hotel having {stars} stars
+im looking for a hotel having {stars} stars in {city}
+im looking for a hotel that has {stars} stars
+im looking for a hotel that has {stars} stars and is near {address}
+im looking for a {stars} stars hotel
+im looking for a {stars} stars hotel in the center of {city}
+im looking for a {stars} stars hotel in {city}
+im looking for a {stars} stars hotel in {city} for {number_people} people
+im looking for a {stars} stars hotel available from {arrival_date} to {departure_date}
+im looking for a {stars} stars hotel that is in {city} near {address}
+im looking for a {stars} stars hotel with {number_room} room for {number_people} people
+im looking for a {stars} stars hotel and it should be in {city}
+im looking for a {stars} stars hotel and it should be near {address}
+im looking for a {stars} stars hotel in {city} from {arrival_date} to {departure_date}
+im looking for a {stars} stars hotel in {city} in {region}
+im looking for a {stars} stars hotel from {arrival_date} to {departure_date}
+im looking for a {stars} stars hotel that is located in {city}
+im looking for a {stars} stars hotel uh be near {city}
+im looking for a {stars} hotel
+im looking for a {stars} hotel and it should be in {city}
+im looking for a {stars} hotel in {city} from {arrival_date} to {departure_date}
+im looking for a {stars} hotel near {address}
+im looking for a {stars} hotel that is in {city} in {region}
+im looking for a {stars} hotel with {number_room} room for {number_people} people in {city}
+im looking for an expensive hotel and it should have {stars} stars
+im looking for an {stars} stars hotel in the {city} part of town
+im looking for an {stars} hotel in {city} in {region} for {number_people} people in {number_room} rooms
+im looking for an {stars} hotel and it should be in {city}
+im looking for an {stars} hotel and it should be near {address}
+im looking for an {stars} hotel and it should be available from {arrival_date} to {departure_date}
+im looking for an {stars} hotel and it should be available for {number_people} people
+im looking for an hotel near {address}
+im looking for an hotel in the {city}
+im looking for an hotel in the {city} in {region}
+im looking for an hotel having {stars} stars
+im looking for an hotel that is located near {address}
+im looking for an hotel that is in {city}
+im looking for a hotel that has {stars} stars
+im looking for something having {stars} stars
+im looking for something
+im looking for something with {stars} stars
+im looking for hotels
+im looking for hotels in {city}
+im looking for hotels with {stars} stars in {city}
+im looking for {stars} stars hotel and it should be near {address} {city}
+im looking for {stars} stars hotel located in {address}
+is there a hotel having {stars} stars
+is there a hotel that has {stars} stars
+is there anything in {address}
+is there anything in {city}
+is there one that has {stars} stars in {city}
+its a hotel in the south of {city} that has {stars} stars
+lets see im looking for a hotel in {city} that has {stars} stars
+like to find a hotel in {city} and it should have {stars} stars
+looking for a hotel in {city} that has {stars} stars
+looking for a hotel that has {stars} stars
+looking for a {stars} stars hotel in the center
+looking for a {stars} stars hotel
+looking for a {stars} stars hotel and it needs to be in {city}
+looking for a {stars} stars hotel that is available from {arrival_date} to {departure_date}
+looking for a {stars} stars hotel that is near {address} and available from {arrival_date} to {departure_date}
+looking for a {stars} hotel in {city}
+looking for a {stars} hotel that is near {address}
+looking for an {stars} hotel in {city} from {arrival_date} to {departure_date}
+looking for an {stars} hotel that is available for {number_people} people
+looking for something in {city}
+looking for something with {stars} stars in {city}
+looking for hotels in the center of {city}
+looking for {stars} stars hotels in the city center
+looking for hotels
+looking for {stars} stars hotels for {number_people} people
+looking for {stars} stars hotels in  the east part of {city}
+may i have {number_room} rooms in a {stars} stars hotel with {stars} stars in {city} for {number_people} people
+noise ah {stars} stars hotel
+noise anything with {stars} stars
+noise looking for an {stars} stars hotel
+noise looking for an {stars} stars hotel in {city}
+noise hotel in {city} with {stars} stars
+okay how about a {stars} stars hotels
+okay is there any {stars} stars hotels
+hotel any area {stars} stars
+hotel in any area with {stars} stars
+hotel in {city}
+hotel in {city} having {stars} stars
+hotel in {city} that has {stars} stars
+hotel in {city} that is available from {arrival_date} to {departure_date}
+hotel in {city} for {number_people} people in {number_room} rooms from {arrival_date} to {departure_date}
+hotel in {city} for {number_people} people in {number_room}
+hotel {city} near {address}
+hotel {city} in {region}
+hotel {city} {stars} stars
+hotel {stars} stars
+something having {stars} stars
+in {city} id like a hotel that has {stars} stars
+uh a hotel in {city}
+uh a {stars} stars hotel in {city}
+uh are there any hotel that has {stars} stars
+uh {stars} stars hotels
+uh {stars} hotel in {city}
+um how about hotels in {city}
+um im looking for a hotel in the center part of {city} that has {stars} stars
+um in {city} and its near {address}
+um what about hotels in {city}
+um what about hotels with {stars} stars
+want something in {city} that has {stars} stars
+what about a hotel that has {stars} stars
+what about a {stars} stars hotel in the north of {city}
+what about a {stars} stars hotel
+what about hotels in {city} near {address}
+what about {city} hotels
+what about hotels near {address}
+what about {stars} stars hotel
+what about {stars} stars hotel in {city} near {address}
+what about hotels with {stars} stars
+what about {stars} stars hotels available for {number_people} people in {number_room} rooms from {arrival_date} to {departure_date}
+what about {stars} stars hotel in {city} in {region}
+what is a good {stars} stars hotel that is in {address}
+yea i would like {stars} stars hotels
+yea i would like hotels with {stars} stars in {city}
+yea i would like {stars} stars hotels near {address}
+yea im looking for a really good {stars} stars hotel
+yea im looking for a really good {stars} stars hotel in {city}
+{stars} stars hotels in {city}
+{stars} stars hotel
+{stars} stars hotel in {city}
+{stars} stars hotel available from {arrival_date} to {departure_date}
+{stars} stars hotel that are available for {number_people} people in {number_room} rooms
+{stars} stars hotels near {address} {city}
+i'm looking for hotels available from {arrival_date} to {departure_date}
+i want to go on vacation somewhere can you show me something
+i'm looking for some hotels
+i'm looking for some hotels with {stars} stars in {city}
+i'm looking for some hotels with {stars} stars
+i'm looking for some hotels with {stars} stars in {city} near {address}
+i'm looking for some hotels with {stars} stars in {city} for {number_people} people in {number_room} rooms
+i'm looking for some hotels with {stars} stars in {city} for {number_people} woman in {number_room} rooms
+i'm looking for some hotels with {stars} stars in {city} for {number_people} men in {number_room} rooms
+i'm looking for some hotels with {stars} stars in {city} for {number_people} ladies in {number_room} rooms
+i'm looking for some hotels with {stars} stars in {city} for {number_people} guys in {number_room} rooms
+i need a {stars} stars hotel in {city}
+I'm looking for hotels near {address} in {city}
+Find {stars} stars hotels in {city}
+I want to search a hotel in {city}
+I want to search a hotel
+i need some hotels
+i'd like to see some hotels
+i'd like to find hotels
+i'd like to see a hotel
+i want to go on holiday near {city}
+i want to go on holiday near {city} in a hotel with {stars} stars
+i want to go on holiday in a hotel with {stars} stars near {city}
+i want to go to {city}
+i want to go to {city} in a hotel with {stars} stars
+i want to go to {city} on holiday
+i wnat to stay some day in {city}
+i'm looking for some hotels because i want to go on holiday in {city}

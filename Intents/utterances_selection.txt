@@ -1,0 +1,112 @@
+i think i want the {ordinal_number}
+i think i want the {ordinal_number} hotel
+i think i want the {ordinal_number} city
+i think i want the {ordinal_number} one
+i think i want the {ordinal_number} result
+i think i want the {ordinal_number} option
+i think i want the {hotel_name}
+maybe the {ordinal_number} hotel
+maybe the {ordinal_number} one
+maybe the {ordinal_number} city
+maybe the {ordinal_number} result
+maybe the {ordinal_number} option
+maybe the {hotel_name}
+please the {ordinal_number}
+please the {hotel_name}
+please the {ordinal_number} city
+please the {ordinal_number} hotel
+please the {ordinal_number} result
+please the {ordinal_number} option
+please the {ordinal_number} one
+i want the {ordinal_number} option
+i want the {ordinal_number} result
+i want the {ordinal_number} hotel
+i want the {ordinal_number} city
+i want the {ordinal_number} one
+i want the {hotel_name}
+i think the best is the {ordinal_number}
+i think the best is the {hotel_name}
+i think the best is the {ordinal_number} city
+i think the best is the {ordinal_number} hotel
+i think the best is the {ordinal_number} result
+i think the best is the {ordinal_number} option
+i think the best is the {ordinal_number} one
+i choose the {ordinal_number} one
+i choose the {ordinal_number} city
+i choose the {ordinal_number} option
+i choose the {ordinal_number} result
+i choose the {ordinal_number} hotel
+i choose the {hotel_name}
+i prefer the {ordinal_number} hotel
+i prefer the {ordinal_number}
+i prefer the {hotel_name}
+i prefer the {ordinal_number} one
+i prefer the {ordinal_number} city
+i prefer the {ordinal_number} option
+{ordinal_number}
+{hotel_name}
+the {ordinal_number}
+i want the {ordinal_number}
+i'd like to book the {hotel_name}
+um i'd like to book the {hotel_name}
+i'd like to book the {ordinal_number} one
+ok i want to boo the {hotel_name}
+nice i want to book the {hotel_name}
+nice i want to book the {ordinal_number} one
+nice i want to book the {ordinal_number}
+nice i think the best option is {hotel_name}
+nice i think the best option is {ordinal_number} hotel
+nice i think the best option is {ordinal_number} city
+nice i think the best option is {ordinal_number}
+nice i think the best option is {ordinal_number} one
+i prefer {hotel_name}
+I want to book the {hotel_name}
+I want to book the {ordinal_number}
+I want to book the {ordinal_number} one
+i choose the {hotel_name}
+i think {hotel_name} is the best option
+i think the {ordinal_number} is the best option
+i think the {ordinal_number} one is the best option
+i think the {ordinal_number} option is the best option
+i think the {ordinal_number} result is the best option
+i think the {ordinal_number} hotel is the best option
+i think the {ordinal_number} city is the best option
+please select the {ordinal_number} hotel
+please select the {ordinal_number} result
+please select the {ordinal_number} one
+please select the {ordinal_number} option
+please select the {ordinal_number} city
+please select the {hotel_name}
+i want to book the {ordinal_number} hotel
+please book me the {ordinal_number} hotel
+please book me the {ordinal_number} one
+please book me the {ordinal_number} result
+please book me the {ordinal_number} option
+please book me the {hotel_name}
+i choose to book the {hotel_name}
+i choose to book the {ordinal_number} hotel
+i choose to book the {ordinal_number} result
+i choose to book the {ordinal_number} option
+i choose to book the {ordinal_number} one
+book {hotel_name}
+book {hotel_name} for me
+book {ordinal_number} hotel
+book {ordinal_number} result
+book {ordinal_number} option
+please book for me the {hotel_name}
+i want to book the {hotel_name} for my holidays
+i want to book the {hotel_name} for my vacation
+i want to book the {hotel_name} for my holidays with friends
+i want to book the {hotel_name} for my holidays alone
+i want to book the {hotel_name} for my winter holidays
+i want to book the {hotel_name} for my summer holidays
+i need the {ordinal_number} option
+i need the {ordinal_number} hotel
+i need the {ordinal_number} city
+i need the {hotel_name}
+i'd like to choose the {hotel_name} for my vacation
+i'd like to choose the {hotel_name} for my holidays
+i'd like to choose the {hotel_name} for my winter holidays
+i'd like to choose the {hotel_name} for my summer holidays
+i'd like to choose the {ordinal_number} hotel for my vacation
+i'd like to choose the {ordinal_number} for my holidays
