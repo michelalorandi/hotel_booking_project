@@ -10,7 +10,7 @@ Flask==0.12.1
 Flask-Ask==0.9.8
 idna==2.8
 itsdangerous==1.1.0
-Jinja2==2.10.3
+Jinja2==2.11.3
 MarkupSafe==1.1.1
 mysql-connector-python==8.0.18
 num2words==0.5.10
